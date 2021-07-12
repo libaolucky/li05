@@ -1,5 +1,5 @@
 package com.hp.bean;
-
+//客户类 实体类
 public class Customer {
     private  String account,password,cname,phoneNum;
     private double monery;

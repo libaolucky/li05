@@ -1,5 +1,5 @@
 package com.hp.bean;
-
+//管理员 实体类
 public class Manager {
     private String acount,password,mname;
 
